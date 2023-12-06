@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Build and deploy JAR app to Azure Web App - SampleServices
+name: Build and deploy JAR app to Azure Web App - SampleServices.
 
 on:
   push:
